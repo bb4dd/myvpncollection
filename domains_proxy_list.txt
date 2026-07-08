@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sentry.com
+DOMAIN-SUFFIX,essential.gg

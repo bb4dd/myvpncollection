@@ -1,2 +1,0 @@
-vless://f30161da-5275-402a-bd3d-609c170e48d6@45.144.222.133:443?security=tls&sni=fr-one.cloudload.org&type=tcp&flow=xtls-rprx-vision#France (FlozVPN)
-vless://f30161da-5275-402a-bd3d-609c170e48d6@178.209.127.33:8443?type=grpc&security=reality&sni=cdn.kwork.com&pbk=flFgUuT_XNfhHeIKary4dXjIpfNPwhUBVlow3ozWiUo&sid=880e94ea9d8617b2&serviceName=api-maps.yandex.ru#Russia (FlozVPN)

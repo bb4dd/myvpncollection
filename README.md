@@ -1,15 +1,15 @@
 # Готовые настройки Shadowrocket для на Wi-Fi/LTE + белые списки
 
-`[ru.conf](./ru.conf)` – ру, гугл поиск, эпл – напрямую, всё остальное прокси
+[ru.conf](./ru.conf) – ру, гугл поиск, эпл – напрямую, всё остальное прокси
 
-`[ru_direct.conf](./ru_direct.conf)` – всё напрямую, отдельный список заблокированного в прокси
+[ru_direct.conf](./ru_direct.conf) – всё напрямую, отдельный список заблокированного в прокси
 
-`[ru_whitelist.conf](./ru_whitelist.conf)` – белый список напрямую, всё остальное в прокси
+[ru_whitelist.conf](./ru_whitelist.conf) – белый список напрямую, всё остальное в прокси
 
 ## Прочие файлы репозитория
 
-`[domains_proxy_list.txt](./domains_proxy_list.txt)` – отдельный список доменов в прокси
+[domains_proxy_list.txt](./domains_proxy_list.txt) – отдельный список доменов в прокси
 
-`[max.txt](./max.txt)` – запросы мессенджера MAX
+[max.txt](./max.txt) – запросы мессенджера MAX
 
-`[whitelist_domains.txt](./whitelist_domains.txt)` – домены из белого списка
+[whitelist_domains.txt](./whitelist_domains.txt) – домены из белого списка

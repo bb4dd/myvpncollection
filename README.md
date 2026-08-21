@@ -8,8 +8,8 @@
 
 ## Прочие файлы репозитория
 
-[domains_proxy_list.txt](./domains_proxy_list.txt) – отдельный список доменов в прокси
+[proxy.list](./proxy.list) – отдельный список доменов в прокси
 
-[max.txt](./max.txt) – запросы мессенджера MAX
+[direct.list](./direct.list) – отдельный список доменов напрямую
 
 [whitelist_domains.txt](./whitelist_domains.txt) – домены из белого списка

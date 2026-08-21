@@ -1,8 +1,0 @@
-DOMAIN-SUFFIX,apptracer.ru
-DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,oneme.ru
-DOMAIN-SUFFIX,okcdn.ru
-DOMAIN-SUFFIX,gosuslugi.ru
-DOMAIN-SUFFIX,max.ru
-DOMAIN-SUFFIX,yandex.net
-DOMAIN-SUFFIX,mail.me.com

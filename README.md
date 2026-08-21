@@ -12,4 +12,4 @@
 
 [direct.list](./rules/direct.list) – отдельный список доменов напрямую
 
-[whitelist/list](./rules/whitelist.list) – домены из белого списка
+[whitelist.list](./rules/whitelist.list) – домены из белого списка

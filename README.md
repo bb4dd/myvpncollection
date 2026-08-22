@@ -14,4 +14,4 @@
 
 [whitelist.list](./rules/whitelist.list) – домены из белого списка, (для `ru_whitelist.conf`).
 
-– В конфигурациях также используются наборы правил из репозиториев [misha-tgshv](https://github.com/misha-tgshv/shadowrocket-configuration-file/tree/main), [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master) и других.
+В конфигурациях также используются наборы правил из репозиториев [misha-tgshv](https://github.com/misha-tgshv/shadowrocket-configuration-file/tree/main), [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master) и других.

@@ -16,19 +16,21 @@
 
 В конфигурациях также используются наборы правил из репозиториев [misha-tgshv](https://github.com/misha-tgshv/shadowrocket-configuration-file/tree/main), [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master) и других.
 
+---
+
 # 🇺🇸/🇬🇧 Ready-to-use Shadowrocket settings for Wi-Fi/LTE + whitelists
 
-[ru.conf](./conf/ru.conf) – everything goes through the proxy, while Russian services, Apple, and some other services connect directly.
+[ru.conf](./conf/ru.conf) – everything goes through the proxy, while Russian services, Apple, and some other services connect directly;
 
-[ru_direct.conf](./conf/ru_direct.conf) – everything connects directly, with a separate list of blocked domains going through the proxy.
+[ru_direct.conf](./conf/ru_direct.conf) – everything connects directly, with a separate list of blocked domains going through the proxy;
 
 [ru_whitelist.conf](./conf/ru_whitelist.conf) – the whitelist connects directly, while everything else goes through the proxy.
 
 ### Other repository files
 
-[direct.list](./rules/direct.list) – a separate list of domains that connect directly (for `ru.conf`).
+[direct.list](./rules/direct.list) – a separate list of domains that connect directly (for `ru.conf`);
 
-[proxy.list](./rules/proxy.list) – a separate list of domains that go through the proxy (for `ru_direct.conf`).
+[proxy.list](./rules/proxy.list) – a separate list of domains that go through the proxy (for `ru_direct.conf`);
 
 [whitelist.list](./rules/whitelist.list) – domains from the whitelist (for `ru_whitelist.conf`).
 
